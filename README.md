@@ -16,7 +16,7 @@ A G2A-like game key marketplace as a university project – including user login
 React • Next.js • MongoDB • Web Engineering • Git • Node.js
 
 ### 👨‍💻 Projects
-Check out my work on [GitHub](https://github.com/EnesYildiz24)
+Check out my work on [GitHub](https://github.com/EnesYildiz24?tab=repositories)
 
 ### 📫 Reach me
 📧 enes.yildiz.2403@gmail.com  
