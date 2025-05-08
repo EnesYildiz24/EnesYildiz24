@@ -27,8 +27,6 @@ Check out my work on [GitHub](https://github.com/EnesYildiz24?tab=repositories)
 
 ### 🧰 Languages and Tools
 
-### 🧰 Languages and Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
