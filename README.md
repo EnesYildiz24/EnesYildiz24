@@ -10,7 +10,6 @@ A G2A-like game key marketplace as a university project – including user login
 - Practical use of AI APIs like ChatGPT & scikit-learn in apps  
 - CI/CD workflows using GitLab & Vercel  
 - Cloud tools like AWS (basic developer usage)  
-- Security best practices (JWT, bcrypt, CORS)
 
 ### 💬 Ask me about
 React • Next.js • MongoDB • Web Engineering • Git • Node.js
