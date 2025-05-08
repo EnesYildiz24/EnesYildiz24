@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on **Some school project for example a website like g2a**
 
 - 🌱 I’m currently learning **Practical Machine Learning usage
-- how to use pre-built models and APIs (e.g. ChatGPT, scikit-learn basics) in web applications DevOps workflows
-- setting up CI/CD pipelines, using Vercel and GitLab CI for deployments Cloud tools for developers
-- using platforms like Vercel and basic AWS services (not cloud architecture itself)**
+      - how to use pre-built models and APIs (e.g. ChatGPT, scikit-learn basics) in web applications DevOps workflows
+      - setting up CI/CD pipelines, using Vercel and GitLab CI for deployments Cloud tools for developers
+      - using platforms like Vercel and basic AWS services (not cloud architecture itself)**
 
 - 👨‍💻 All of my projects are available at [[GitHub](https://github.com/EnesYildiz24)]
 
